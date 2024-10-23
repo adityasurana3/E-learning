@@ -2,3 +2,5 @@ env
 fixtures
 __pycache__
 .vscode
+/../env/
+../env/
